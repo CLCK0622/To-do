@@ -2,7 +2,7 @@
 something to finish s∞n in the future
 
 - [x] make a To-do list
-- [ ] WHK
+- [x] WHK 年一
 - [ ] 古汉语文言文字典 (remake from [json](https://raw.githubusercontent.com/lwl5219/ancient_chinese/master/dict/out_file/ancient_chinese.json))
 - [ ] [2507 photo gallery](https://github.com/CLCK0622/image-gallery-starter) & [purchase a domain](https://buy.cloud.tencent.com/domain?domain=hsefz2507&tlds=.space%2C.com&from=dnspodEntrance)
 - [ ] mastodon self-deploy & [purchase a domain](https://buy.cloud.tencent.com/domain?domain=evolution-studio&tlds=.space%2C.com&from=dnspodEntrance)
